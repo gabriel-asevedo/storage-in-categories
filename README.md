@@ -1,8 +1,7 @@
-# storage-in-departments-api ![image](assets/icons8-logotipo-da-primavera-40.png)
+# SpringMart-API ![image](SpringMart-API/assets/icons8-logotipo-da-primavera-40.png)
 
 ## About the project📜
-REST API with Spring Boot for registering and searching for products.
-
+Spring Boot REST API for registering/searching for products or services, which also simulates the organization of inventories, with typical data such as name, price and department
 ## Technologies used 💻⚙️
 - Spring Tool Suite 4
 - JDK 17
@@ -13,16 +12,16 @@ REST API with Spring Boot for registering and searching for products.
 
 ## Examples of features/operations
 ### Creating EndPoints
-![Image](assets/storageDepartments.endPoints.png)
+![Image](SpringMart-API/assets/storageDepartments.endPoints.png)
 
 ### Testing the service
 #### 
 ```bash
 Without formatting
 ```
-![image](assets/storageDepartmentsJson1.png)
+![image](SpringMart-API/assets/storageDepartmentsJson1.png)
 
 ```bash
 JSON format through Postman
 ```
-![image](assets/storageDepartmentsJson2Postman.png)
+![image](SpringMart-API/assets/storageDepartmentsJson2Postman.png)
