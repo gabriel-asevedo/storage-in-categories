@@ -1,4 +1,4 @@
-# SpringMart-API ![image](SpringMart-API/assets/icons8-logotipo-da-primavera-40.png)
+# SpringMart-API ![image](SpringMart-API/assets/icons8-logotipo-da-primavera-40.png) 
 
 ## About the project📜
 Spring Boot REST API for registering/searching for products or services, which also simulates the organization of inventories, with typical data such as name, price and department
